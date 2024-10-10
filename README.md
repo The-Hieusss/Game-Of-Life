@@ -56,6 +56,7 @@ After the initial setup, the grid will look something like this for Generation 0
 * * * * *
 
 
+
 The program will then evolve the grid for the next six generations, updating the live and dead cells according to the rules.
 Future Improvements
 Possible enhancements to the program could include:
