@@ -31,30 +31,35 @@ The grid uses the following symbols:
 
 Files
 life.c: This is the main program file containing the Game of Life logic.
+
 Compilation
+
 To compile the program, use a C compiler like gcc:
 
 bash
 gcc -o Game-Of-Life life.c
 
 Running the Program
+
 After compiling, run the program with:
 
 bash
 ./Game-Of-Life
 
 Example
+
 Here is an example of how the game works:
 
 Enter numbers between 0-24 to place live cells.
-After the initial setup, the grid will look something like this for Generation 0:
 
+After the initial setup, the grid will look something like this for Generation 0:
+```
 * * X * *
 * * * X *
 * X X X *
 * * * * *
 * * * * *
-
+```
 
 
 The program will then evolve the grid for the next six generations, updating the live and dead cells according to the rules.
