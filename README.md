@@ -48,11 +48,14 @@ Here is an example of how the game works:
 
 Enter numbers between 0-24 to place live cells.
 After the initial setup, the grid will look something like this for Generation 0:
+
 * * X * *
 * * * X *
 * X X X *
 * * * * *
 * * * * *
+
+
 The program will then evolve the grid for the next six generations, updating the live and dead cells according to the rules.
 Future Improvements
 Possible enhancements to the program could include:
