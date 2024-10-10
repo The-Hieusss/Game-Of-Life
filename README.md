@@ -71,7 +71,9 @@ Adding a graphical interface to make the game more interactive.
 Extending the game to run for more than six generations or allowing the user to specify the number of generations to run.
 
 License
+
 This project is open-source. You can modify and distribute it as needed.
 
 Author
+
 This implementation of the Game of Life was written in C for flexing purposes. 
